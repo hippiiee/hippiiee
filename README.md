@@ -1,4 +1,4 @@
-<img src=images/banner.gif width="100%"/>
+<img src=https://s4.gifyu.com/images/banner988ffa7624fb817d.gif width="100%"/>
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=hippiiee&style=flat-square&color=blue">
 
