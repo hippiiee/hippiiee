@@ -16,6 +16,5 @@ If you want to read some of my write-ups and articles you can go here : [hippie.
 
 <p align="center">
     <img alt="GitHub stats: commits, pull requests, issues and stars" width="500px" src="./profile/stats.svg"
-    /> <br>
-    <img alt="Most used languages" width="500px" src="./profile/top-langs.svg"/>
+    />
 </p>

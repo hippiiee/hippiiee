@@ -31,15 +31,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
